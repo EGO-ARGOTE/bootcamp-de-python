@@ -15,4 +15,3 @@
 #booleanos
 True # T mayuscula
 False # F mayuscula
-
